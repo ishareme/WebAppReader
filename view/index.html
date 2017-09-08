@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <title>书城首页</title>
+    <link rel="stylesheet" href="/static/css/reset.css">
+    <link rel="stylesheet" href="/static/css/all.css">
+</head>
+<body>
+    <div id="app" v-bind:style="{width: screen_width + 'px'}">
+        <div>
+            <% include include/header.html %>
+            <div class="container" v-bind:style="{width:double_screen_width + 'px',transform: translateValue}">
+                <div class="container-wrap" v-bind:style="{width: screen_width + 'px'}">
+                    <div class="container-scroll">
+                        <% include include/index-top.html %>
+                        <% include include/index-hot.html %>
+                        <% include include/index-recommend.html %>
+                        <% include include/index-female.html %>
+                        <% include include/index-male.html %>
+                        <% include include/index-free.html %>
+                        <% include include/index-bottom.html %>
+                    </div>
+                </div>
+                <div class="shelf" v-bind:style="{width: screen_width + 'px'}">
+                    <% include include/index-shelf.html %>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="/static/script/vue.js"></script>
+    <script src="/static/script/zepto.min.js"></script>
+    <script src="/static/script/pages/index.js"></script>
+</body>
+</html>

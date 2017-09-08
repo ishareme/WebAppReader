@@ -1,0 +1,252 @@
+{
+  "comment": {
+    "top_comment": [
+      {
+        "status": 0,
+        "author_nick": "季末",
+        "author": 1188522925,
+        "author_icon": "https://s1.mi-img.com/mfsv2/avatar/fdsc3/p01lsFCxFtKw/F8D24Qg4eJgAeh.jpg",
+        "comment_count": 0,
+        "object_id": 1538578,
+        "content": "等级划分应该是武士  武者  武师  武君  武灵  武皇后面就不知了",
+        "rate": 5,
+        "like_count": 2,
+        "create_time": 1502982996,
+        "type": 0,
+        "id": 4665331
+      }
+    ],
+    "top_comment_count": 4,
+    "all_comment_count": 89
+  },
+  "stats": {
+    "paid": 10957
+  },
+  "author_books": [
+    {
+      "ad": 0,
+      "word_count": 3056712,
+      "owner": 0,
+      "allow_discount": 0,
+      "ad_time": 0,
+      "ad_duration": 0,
+      "score_count": 45,
+      "title": "鬼王腹黑：独宠爆萌小狂妃",
+      "on_sale": true,
+      "comment_count": 32,
+      "has_ad": 0,
+      "click": 4136834,
+      "latest_id": 1488,
+      "score": 8.4,
+      "allow_free_read": 1,
+      "rights_id": 10080,
+      "channel": [
+        2
+      ],
+      "updated": 1494126305,
+      "finish": true,
+      "tags": [
+        "东方玄幻",
+        "玄幻言情"
+      ],
+      "price": 5,
+      "chapter_count": 1489,
+      "authors": "格格喵",
+      "categories": [
+        {
+          "category_id": 15000000,
+          "label": "玄幻言情"
+        },
+        {
+          "category_id": 15000100,
+          "label": "东方玄幻"
+        }
+      ],
+      "rights": "阅文集团旗下云起书院",
+      "level": 0,
+      "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01n92X6Qn68/Jvt16S07KwrR3I.jpg",
+      "summary": "顶级精英穿越为楚家废物三小姐，激活远古武魂，开启九龙神鼎，契约上古圣兽，顶级丹药随手炼制，一个时辰追...",
+      "fiction_id": 321890,
+      "outer_id": "3751818504708803",
+      "latest": "新书已发，求支持~~~"
+    },
+    {
+      "ad": 0,
+      "word_count": 1552213,
+      "owner": 0,
+      "allow_discount": false,
+      "ad_time": 0,
+      "ad_duration": 0,
+      "score_count": 7,
+      "title": "首席仙姬",
+      "on_sale": true,
+      "comment_count": 0,
+      "has_ad": 0,
+      "click": 168758,
+      "latest_id": 491,
+      "score": 7.42,
+      "allow_free_read": 1,
+      "rights_id": 10080,
+      "channel": [
+        2
+      ],
+      "updated": 1436006817,
+      "finish": true,
+      "tags": [
+        "玄幻奇幻",
+        "东方玄幻",
+        "玄幻言情"
+      ],
+      "price": 5,
+      "chapter_count": 492,
+      "authors": "格格喵",
+      "categories": [
+        {
+          "category_id": 10000,
+          "label": "玄幻奇幻"
+        },
+        {
+          "category_id": 10100,
+          "label": "东方玄幻"
+        },
+        {
+          "category_id": 15000000,
+          "label": "玄幻言情"
+        },
+        {
+          "category_id": 15000100,
+          "label": "东方玄幻"
+        }
+      ],
+      "rights": "阅文集团旗下云起书院",
+      "level": 0,
+      "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01AliDqMZ9h/LaOu8nA3ynOSM1.jpg",
+      "summary": "她天生废柴，为报仇拜入宗门，却因为资质太差始终被排挤。好在天意让她得到了魔尊的...",
+      "fiction_id": 297869,
+      "outer_id": "5582336b50e3a473924c80d4",
+      "latest": "后记"
+    },
+    {
+      "ad": 0,
+      "word_count": 1003521,
+      "owner": 0,
+      "allow_discount": 0,
+      "ad_time": 0,
+      "ad_duration": 0,
+      "score_count": 1,
+      "title": "非典型庶女",
+      "on_sale": true,
+      "comment_count": 0,
+      "has_ad": 0,
+      "click": 10641,
+      "latest_id": 299,
+      "score": 10.0,
+      "allow_free_read": 1,
+      "rights_id": 10080,
+      "channel": [
+        2
+      ],
+      "updated": 1435960253,
+      "finish": true,
+      "tags": [
+        "宫闱宅斗",
+        "宫廷侯爵",
+        "古代言情"
+      ],
+      "price": 5,
+      "chapter_count": 300,
+      "authors": "格格喵",
+      "categories": [
+        {
+          "category_id": 110000,
+          "label": "古代言情"
+        },
+        {
+          "category_id": 110200,
+          "label": "宫廷侯爵"
+        },
+        {
+          "category_id": 17000000,
+          "label": "古代言情"
+        },
+        {
+          "category_id": 17000500,
+          "label": "宫闱宅斗"
+        }
+      ],
+      "rights": "阅文集团旗下云起书院",
+      "level": 0,
+      "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01qvMj7AYOO/7HUFwqt83WxBTt.jpg",
+      "summary": "女人不狠，江山不稳。幸福生活还得靠自己！\n生为非典型庶女，主母温柔，姨娘慈爱，姊妹亲善，万事俱备，只...",
+      "fiction_id": 296933,
+      "outer_id": "5582342d50e3a473914c8222",
+      "latest": "第三十四章 前传洛阳之梦"
+    }
+  ],
+  "item": {
+    "ad": 0,
+    "word_count": 3177688,
+    "owner": 0,
+    "allow_discount": 0,
+    "ad_time": 0,
+    "ad_duration": 0,
+    "click": 10761142,
+    "score_count": 146,
+    "rights": "阅文集团旗下云起书院",
+    "title": "邪帝宠妻无双：天才召唤师",
+    "on_sale": true,
+    "comment_count": 89,
+    "has_ad": 0,
+    "id": 1538578,
+    "content": "她是苏家弱女苏芸，生母早逝，天生废柴，丑颜惊人；一朝醒来，她是21世纪的实验体代号D！\n丑颜褪去，露出无双容貌，废物瞬间成绝世明珠，神兽成小弟，神器随便用，神王当靠山，众美男倾尽所有，只为博她一笑！\n凤临异世，毒行天下，遇神杀神，遇佛弑佛，不料却遇上了天底下最尊贵的无耻之徒……\n当强者遇上强者，当腹黑撞上腹黑，一出追逐与被追逐的好戏就此上演。",
+    "source": 2,
+    "latest_id": 1493,
+    "score": 7.06,
+    "allow_free_read": 1,
+    "toc": [],
+    "rights_id": 10080,
+    "channel": [
+      2
+    ],
+    "updated": 1457588186,
+    "finish": true,
+    "tags": [
+      "玄幻奇幻",
+      "东方玄幻",
+      "玄幻言情"
+    ],
+    "started": 1434596510,
+    "price": 5,
+    "chapter_count": 1494,
+    "authors": "格格喵",
+    "categories": [
+      {
+        "category_id": 10000,
+        "label": "玄幻奇幻"
+      },
+      {
+        "category_id": 10100,
+        "label": "东方玄幻"
+      },
+      {
+        "category_id": 15000000,
+        "label": "玄幻言情"
+      },
+      {
+        "category_id": 15000100,
+        "label": "东方玄幻"
+      }
+    ],
+    "author_books_total": 4,
+    "level": 0,
+    "created": 1435018577,
+    "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p015pd7Kg143/tssBnBvTj3i5W2.jpg",
+    "summary": "她是苏家弱女苏芸，生母早逝，天生废柴，丑颜惊人；一朝醒来，她是21世纪的实验体代号D！\n丑颜褪去，露...",
+    "source_id": 291325,
+    "fiction_id": 291325,
+    "outer_id": "5582349e50e3a4738e4c85b5",
+    "latest": "第1493章 尾声 魔帝非天"
+  },
+  "ips": [],
+  "result": 0
+}

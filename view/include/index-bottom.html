@@ -1,0 +1,19 @@
+<section class="channel-h5">
+    <div class="channel-h5_header">
+        <p class="channel-h5_title">
+            精选专题 <i>热</i>
+        </p>
+    </div>
+    <ul class="banner-h5_list">
+        <div>
+            <li v-for="item in topic">
+                <div class="banner-h5_cover">
+                    <img :src="item.ad_pic_url" alt="item.name">
+                </div>
+            </li>
+        </div>
+    </ul>
+    <div class="channel-h5_footer">
+        <a href="btn-h5_more">更多精彩专题&gt;&gt;</a>
+    </div>
+</section>

@@ -1,0 +1,13 @@
+<div class="fixed-header" v-bind:style="{width: screen_width + 'px'}">
+    <div class="header-tab" id="app_header">
+        <div class="Swipe-tab Swipe-tab_2 f-cb">
+            <a href="javascript:" @click="tabSwitch(0)" :class="tab_1_class"></a>
+            <a href="javascript:" @click="tabSwitch(1)" :class="tab_2_class"></a>
+            <!--会被js操作的style写在元素里面-->
+            <i v-bind:style="{width: header_tab_width + 'px' ,transform: header_translateValue}"></i>
+            <!--{ color: activeColor, fontSize: fontSize + 'px' }-->
+        </div>
+        <em class="header-user"></em>
+        <em class="header-checkin"></em>
+    </div>
+</div>
