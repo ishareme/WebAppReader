@@ -15,3 +15,13 @@
 5. EJS服务端渲染
 
 > 技术栈： zepto & Ajax & LocalStorage & Vue & nodejs koa & ejs
+
+#### 安装
+
+`
+cd webappreader
+
+npm install
+
+`
+
