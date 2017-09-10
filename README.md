@@ -14,7 +14,7 @@
 4. 数据Mock常见方法
 5. EJS服务端渲染
 
-> 技术栈： zepto & Ajax & LocalStorage & Vue & nodejs koa & ejs
+> 技术栈： zepto & Ajax & LocalStorage & Vue & nodejs Express & ejs
 
 #### 安装
 
